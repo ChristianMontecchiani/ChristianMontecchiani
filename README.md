@@ -5,7 +5,7 @@ I am Christian Montecchiani, here you can find the projects I have worked on.
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### About me 🔭
-I am currently attending the MSc in Data Science and Engineering at Politecnico di Torino. I am a graduated student in Computer Science who loves Data Science and Machine Learning. I am aiming to learn more and more about these topics. Also I am trying to improve my skill in programming in Python and R which are essential features for each Data Scientist.
+I am currently attending the MSc in *Data Science and Engineering* at Politecnico di Torino. I am a graduated student in Computer Science who loves Data Science and Machine Learning. I am aiming to learn more and more about these topics. Also I am trying to improve my skill in programming in Python and R which are essential features for each Data Scientist.
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### Current Projects 🌱
@@ -15,7 +15,9 @@ ________________________________________________________________________________
 
 ### 📫 How to reach me:
   -Email: christian.montecchiani99@gmail.com
+  
   -Instutional email: christian.montecchiani@studenti.polito.it
+  
   -Linkedin: https://www.linkedin.com/in/christian-montecchiani/
 
 
