@@ -18,7 +18,7 @@ ________________________________________________________________________________
   
   -Instutional email: christian.montecchiani@studenti.polito.it
   
-  -Linkedin: https://www.linkedin.com/in/christian-montecchiani/
+  -Linkedin: https://www.linkedin.com/in/christian-montecchiani-41ab7a1b3/
 
 
 <!--
