@@ -9,7 +9,7 @@
 
 - Writing `Python`, `R`, `MySQL`, `Java`, `NoSQL MongoDB`, `C`.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/christian-montecchiani-41ab7a1b3/)**
-- Making **[AI Arts](https://www.flickr.com/photos/191005122@N07/albums/with/72177720309830012)**.
+- Studying **[Incremental Learning](https://en.wikipedia.org/wiki/Incremental_learning)**.
 
 #### What are my skill sets?
 
