@@ -18,6 +18,7 @@
   - **Programming:** `Python` • `R` • `Java` • `MySQL`
   - **Framework:** `Hadoop` • `Spark` • `Tableau` • `Matplotlib`• `Seaborn`• `PyTorch`• `TensorFlow`• `Scikit-Learn`• `NumPy`• `Pandas`
   - **Databases:** `MySQL` • `PostgreSQL`
+  - **Passion:** **[Computer Vision](https://github.com/ChristianMontecchiani/Real-Time-Domain-Adaptation-in-Image-Segmentation)** • **[Reinforcement Learning](https://github.com/ChristianMontecchiani/Sim-to-Real-transfer-of-Reinforcement-Learning-Policies-in-Robotics)** • **[Incremental Learning](https://github.com/ChristianMontecchiani/River)** 
 
 - 🎡 **Ecosystem:**
   - **Containerization:** `Docker` • `GitHub Codespaces`
